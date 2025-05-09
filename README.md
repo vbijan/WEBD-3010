@@ -1,12 +1,15 @@
-# WEBD-3010
-I will be sharing Examples used in the class on this Repo using different branchs for each modules.
-you can fork it or clone the repo using following command
+# WEBD-3010 - Web Development Course Examples
 
-git clone 
+![Web Development](https://github.com/vbijan/WEBD-3010.git) 
 
-## To pull all the branches
-git fetch upstream
+## Repository Structure
+This repository contains code examples used in the WEBD-3010 course, organized by modules using Git branches.
 
-## To checkout between branches use following command. I have created barnch module-1 for module 1.
-git checkout module-1
+### How to Use This Repository
+1. **Clone the repository**:
+   git clone https://github.com/vbijan/WEBD-3010.git
 
+2. **Fetch all branches**:
+   git fetch origin
+3. **Switch to specific branch(Module)**
+   git checkout module-1
