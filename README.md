@@ -13,6 +13,6 @@ This repository contains code examples used in the WEBD-3010 course, organized b
 2. **Fetch all branches**:
    ```bash
    git fetch origin
-3. **Switch to specific branch(Module)**
+3. **Switch to specific branch(Module)**:
    ```bash
    git checkout module-1
