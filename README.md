@@ -1,6 +1,6 @@
 # WEBD-3010 - Web Development Course Examples
 
-![Web Development](https://github.com/vbijan/WEBD-3010.git) 
+![Web Development](https://www.python.org/static/img/python-logo.png) 
 
 ## Repository Structure
 This repository contains code examples used in the WEBD-3010 course, organized by modules using Git branches.
